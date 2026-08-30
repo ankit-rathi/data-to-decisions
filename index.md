@@ -1,41 +1,34 @@
 # Content Index
 
-## Active
+## Channel Journey
 
-| # | Topic | Pillar | Domain | Status | Sketch | Blog | LinkedIn | Video |
-|---|---|---|---|---|---|---|---|---|
-| 001 | Data Quality | Think/Bridge | Data | Active | ☐ | ☐ | ☐ | ☐ |
+### Phase 1 — Explore
+
+| # | Topic | Domain | Status |
+|---|---|---|---|
+| 001 | What is From Data To Decisions? | Overview | Active |
+| 002 | Financial Planning as a Decision System | Wealth | Idea |
+| 003 | Equity Investing as a Decision Problem | Wealth | Idea |
+| 004 | How Decisions Work in Industry | Industry | Idea |
+| 005 | Health as a Feedback System | Health | Idea |
+| 006 | Career as a Portfolio | Career | Idea |
+
+### Phase 2 — Bridge
+
+| # | Topic | Status |
+|---|---|---|
+| | | |
+
+### Phase 3 — Build
+
+| # | Topic | Status |
+|---|---|---|
+| | | |
 
 ---
 
-## Published
+## Content Production
 
-| # | Topic | Pillar | Domain | Sketch | Blog | LinkedIn | YouTube | Short |
-|---|---|---|---|---|---|---|---|---|
-| | | | | | | | | |
-
----
-
-## Status
-
-- Idea
-- Active
-- Published
-
-Keep the number of statuses intentionally small.
-
----
-
-## Current Focus
-
-### This Week
-
-- 
-
-### This Month
-
-- 
-
-### Current Quantvesting Focus
-
-- 
+| # | Topic | Research | Sketch | Blog | LinkedIn | YouTube | Short |
+|---|---|---|---|---|---|---|---|
+| 001 | What is FDTD? | ✓ | ✓ | ☐ | ☐ | ☐ | ☐ |
