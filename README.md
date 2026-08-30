@@ -2,58 +2,115 @@
 
 > Turning data, intelligence and ideas into better decisions.
 
-From Data To Decisions is a learning, thinking and publishing project exploring
-how data, AI, systems thinking, probability and practical experience can help
-us make better decisions.
+From Data To Decisions is a learning, thinking and building project exploring
+how data, intelligence, systems thinking and technology can help us make
+better decisions.
 
-The project connects theory with real-world practice across:
+The question is simple:
 
-- Data & AI
-- Business
+> Where can better understanding lead to better decisions?
+
+The answer is not limited to technology.
+
+The same principles can influence:
+
+- Financial planning and investing
+- Business and industry
 - Leadership
-- Wealth
-- Health & Fitness
+- Health and fitness
 - Career
 - Parenting
-- Life
+- Everyday life
 
-It also explores the gap between what we learn academically and what actually
-happens in industry.
+---
 
-## The Core Idea
+## The Journey
 
-The goal is not to create more content.
+The project follows a top-down journey.
 
-The goal is to understand one meaningful question deeply and then express that
-understanding in multiple formats.
+### 1. Explore
 
-Research → Understand → Sketch → Blog → LinkedIn → YouTube → Short/Reel → Feedback
+First, understand where From Data To Decisions can make a difference.
 
-## Content Pillars
+Financial decisions → Business decisions → Health decisions → Career decisions
+→ Leadership → Parenting → Life
 
-### Think
-From Data To Decisions — applying decision thinking to different aspects of life
+### 2. Bridge
+
+Then connect theory with practice.
+
+Academia ↔ Industry
+
+Understand what we learn, why it matters, and what changes when theory meets
+real-world constraints.
+
+### 3. Build
+
+Finally, turn concepts into working systems.
+
+Quantvesting is the primary living example of this approach.
+
+Theory → Mental Model → Implementation → Product
+
+---
+
+## The Long-Term Model
+
+Once the foundation is established, the channel balances three ongoing pillars:
+
+### THINK
+
+How data, intelligence and systems thinking can improve decisions across life
 and work.
 
-### Bridge
-Academia ↔ Industry — understanding where theory meets reality.
+### BRIDGE
 
-### Build
-Quantvesting — applying data, decision systems and engineering to build a real
-system.
+Connecting academic theory with industry reality.
 
-## Repository
+### BUILD
 
-- `index.md` — current content overview
-- `philosophy.md` — principles behind the project
-- `content-flywheel.md` — how one idea becomes multiple outputs
-- `topics.md` — topic backlog
-- `topics/` — detailed research/content for each topic
-- `sketches/` — handwritten sketch notes
-- `quantvesting/` — Quantvesting context and product journey
+Building real decision-support systems and products.
 
-## Principle
+---
 
-> One deep research effort → many useful expressions.
+## Content Philosophy
 
-Keep it simple. Learn deeply. Explain simply. Build what you teach.
+One question.
+
+One deep research effort.
+
+One sketch.
+
+Multiple expressions.
+
+Research → Understand → Sketch → Blog → LinkedIn → YouTube → Short/Reel →
+Feedback → Next Question
+
+---
+
+## Language
+
+Hindi/Hinglish:
+
+- YouTube
+- Shorts
+- Instagram Reels
+
+English:
+
+- Sketch notes
+- Blog
+- LinkedIn
+- GitHub
+- Product documentation
+
+---
+
+## Guiding Principle
+
+> Learn deeply. Think clearly. Explain simply. Build practically.
+
+The goal is not to create content for the sake of content.
+
+The goal is to understand better, communicate better and eventually build better
+decision systems.
