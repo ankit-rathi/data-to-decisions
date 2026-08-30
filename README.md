@@ -1,18 +1,59 @@
-# Data to Decisions
+# From Data To Decisions
 
-Connect academic Data & AI knowledge with the practical realities of building and operating Data & AI systems.
+> Turning data, intelligence and ideas into better decisions.
 
-## Philosophy
+From Data To Decisions is a learning, thinking and publishing project exploring
+how data, AI, systems thinking, probability and practical experience can help
+us make better decisions.
 
-**Academic Knowledge + Industry Reality → Gap → Deep Understanding → Explain Simply**
+The project connects theory with real-world practice across:
 
-Each selected topic produces four public assets:
+- Data & AI
+- Business
+- Leadership
+- Wealth
+- Health & Fitness
+- Career
+- Parenting
+- Life
 
-- Sketch note — visual mental model
-- LinkedIn post — concise insight
-- Reel / YouTube Short — quick explanation
-- Blog — deeper understanding
+It also explores the gap between what we learn academically and what actually
+happens in industry.
 
-## Workflow
+## The Core Idea
 
-Research → Understand the gap → Blog → Sketch Note → LinkedIn → Reel → Publish → Learn
+The goal is not to create more content.
+
+The goal is to understand one meaningful question deeply and then express that
+understanding in multiple formats.
+
+Research → Understand → Sketch → Blog → LinkedIn → YouTube → Short/Reel → Feedback
+
+## Content Pillars
+
+### Think
+From Data To Decisions — applying decision thinking to different aspects of life
+and work.
+
+### Bridge
+Academia ↔ Industry — understanding where theory meets reality.
+
+### Build
+Quantvesting — applying data, decision systems and engineering to build a real
+system.
+
+## Repository
+
+- `index.md` — current content overview
+- `philosophy.md` — principles behind the project
+- `content-flywheel.md` — how one idea becomes multiple outputs
+- `topics.md` — topic backlog
+- `topics/` — detailed research/content for each topic
+- `sketches/` — handwritten sketch notes
+- `quantvesting/` — Quantvesting context and product journey
+
+## Principle
+
+> One deep research effort → many useful expressions.
+
+Keep it simple. Learn deeply. Explain simply. Build what you teach.
