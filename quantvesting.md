@@ -1,32 +1,36 @@
 # Quantvesting
 
-Quantvesting is the practical implementation of the From Data To Decisions
-philosophy in the domain of financial decision-making.
+## Role in From Data To Decisions
 
-It is introduced first as a way of thinking about financial situations and
-portfolios, and progressively developed into a real analytical system.
+Quantvesting is a **living implementation of the FDTD philosophy in financial decision-making**.
 
-## Role Within From Data To Decisions
+It should demonstrate how an abstract decision framework becomes a practical analytical system.
 
-From Data To Decisions
-        ↓
+```text
 Decision Thinking
-        ↓
+      ↓
 Financial Decisions
-        ↓
-Quantvesting Concepts
-        ↓
-Quantvesting Implementation
-        ↓
-Quantvesting Product
+      ↓
+Quantitative Thinking
+      ↓
+Methodology
+      ↓
+Quantvesting
+      ↓
+Research Engine
+      ↓
+Potential Product
+```
 
-Quantvesting is therefore not the identity of the channel.
+## Content Position
 
-It is a living example of the broader philosophy.
+Quantvesting should not consume the identity of the entire channel.
 
-## Educational Scope
+It is one of the strongest examples of:
 
-Potential areas:
+> **Data → analysis → decision → action → feedback**
+
+## Potential Content Areas
 
 - Financial situation diagnostics
 - Portfolio diagnostics
@@ -34,30 +38,51 @@ Potential areas:
 - Diversification
 - Probability
 - Quantitative thinking
+- Fundamental analysis
+- Technical signals
 - Data quality
 - Reproducible research
+- Historical runs
+- Strategy versioning
 - Portfolio analytics
-- Teaching and mentoring
+- Decision-support systems
 
-The focus is on education, diagnostics, methodology and decision-support.
+## Experience Boundary
 
-The project does not aim to provide individualized investment recommendations
-or perform regulated investment-advisory activity.
+When discussing actual investing, distinguish between:
+
+### Methodology
+How a decision system works.
+
+### Personal process
+What I do and why.
+
+### Education
+Concepts that others can learn.
+
+### Individualized advice
+A separate regulated activity requiring appropriate permissions / qualifications.
+
+Until that is appropriate, public content should remain educational and methodology-oriented rather than individualized recommendations.
 
 ## Build Journey
 
+```text
 Research
-↓
+   ↓
 Notebook
-↓
-Research Engine
-↓
+   ↓
 Reproducible Runs
-↓
+   ↓
+Research Engine
+   ↓
 PostgreSQL
-↓
-FastAPI
-↓
+   ↓
+API
+   ↓
 Web UI
-↓
-Product
+   ↓
+Product / Platform
+```
+
+The build itself can become content because it demonstrates theory meeting implementation.

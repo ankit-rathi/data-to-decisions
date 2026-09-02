@@ -1,386 +1,419 @@
 # From Data To Decisions
 
-> **Turning data, intelligence and ideas into better decisions.**
+> **Think better. Explain simply. Build practically. Make better decisions.**
 
-**From Data To Decisions** is a thinking, learning, teaching and building project exploring a simple question:
+**From Data To Decisions (FDTD)** is a learning and content project built around one central idea:
 
-> **How can better use of data, intelligence, knowledge and systems thinking help us make better decisions?**
+> **Data is useful when it improves understanding, decisions and outcomes.**
 
-The idea is deliberately broader than Data & AI.
+The project deliberately starts broad. It explores how evidence, data, systems thinking and experimentation can improve decisions across work, money, health, family and life.
 
-The same principles can influence decisions about **wealth, industry, health, career, leadership, parenting and life**.
-
-The project starts with the big picture, explores where better decision-making can make a difference, then progressively connects those ideas with academic theory, industry reality and practical implementation.
+It then goes deeper where there is genuine experience, expertise, experimentation and audience interest.
 
 ---
 
-# 1. The Big Idea
+## 1. The Core Philosophy
 
-Data by itself does not create better outcomes.
+FDTD is not primarily a Data/AI channel, investing channel, farming channel or self-help channel.
 
-A useful way to think about the journey is:
-
-**Data → Understanding → Decision → Outcome → Feedback → Learning**
-
-The objective is therefore not simply to collect more data or use more AI.
-
-It is to understand:
-
-* What information matters?
-* What does it actually tell us?
-* What are its limitations?
-* How should we reason about uncertainty?
-* What decision are we trying to improve?
-* How do we learn from the outcome?
-
-This thinking can be applied across many areas of life and work.
-
----
-
-# 2. The Channel Journey
-
-The channel follows a **top-down journey**.
-
-## Chapter 1 — Introduce the Idea
-
-First, establish what **From Data To Decisions** means.
-
-Explore why data, intelligence and systems thinking matter for decision-making.
-
----
-
-## Chapter 2 — Explore Where It Matters
-
-Apply the idea across different aspects of life.
-
-### Wealth
-
-* Financial planning
-* Financial situation
-* Risk
-* Equity investing
-* Portfolio thinking
-* Quantvesting
-
-### Industry
-
-* Business decisions
-* Data & AI
-* Data quality
-* Decision systems
-* Leadership
-* Architecture
-* Governance
-
-### Health & Fitness
-
-* Health as a feedback system
-* Metrics
-* Experiments
-* Habits
-* Leading vs lagging indicators
-
-### Career
-
-* Human capital
-* Skills
-* Optionality
-* Career risk
-* Learning
-
-### Leadership
-
-* Decision-making under uncertainty
-* Incentives
-* Metrics vs judgement
-* Decision rights
-* Feedback
-
-### Parenting
-
-* Incentives
-* Behaviour
-* Feedback loops
-* Long-term development
-* Teaching children how to think
-
-The purpose of this phase is to demonstrate that the core philosophy is **not limited to technology or finance**.
-
----
-
-## Chapter 3 — Bridge Academia ↔ Industry
-
-Once the audience understands the broader idea, go deeper into the concepts behind it.
-
-The recurring question:
-
-> **What does theory teach us, and what changes when we actually enter the real world?**
-
-Potential areas:
-
-* Data Engineering
-* Data Quality
-* Data Products
-* Data Mesh
-* Statistics
-* Probability
-* Machine Learning
-* AI
-* AI Agents
-* Data Governance
-* Cloud
-* Architecture
-* Decision Intelligence
-
-This is also an important thread for connecting with **students, young professionals and people transitioning into Data & AI**.
-
----
-
-## Chapter 4 — Build
-
-Move from understanding to implementation.
-
-> **Theory → Mental Model → Methodology → Implementation → System → Product**
-
-**Quantvesting** is the initial living example of this philosophy.
-
-It applies data, quantitative thinking, decision systems and engineering to financial analysis and portfolio understanding.
-
-The focus can include:
-
-* Financial situation diagnostics
-* Portfolio diagnostics
-* Risk
-* Diversification
-* Quantitative thinking
-* Data quality
-* Research methodology
-* Reproducibility
-* Portfolio analytics
-* Teaching and mentoring
-* Building the Quantvesting system
-
-The project is intended to remain educational and analytical and should not cross into individualized investment recommendations or other regulated activity.
-
-See [`quantvesting.md`](quantvesting.md) for the current Quantvesting vision, scope and implementation journey.
-
----
-
-# 3. Long-Term Model
-
-The initial journey is:
-
-**Big Idea → Life Applications → Academia ↔ Industry → Build**
-
-Over time, the channel evolves into three continuously operating pillars:
+It is a **decision-making lens**.
 
 ```text
-                    FROM DATA TO DECISIONS
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-           THINK            BRIDGE           BUILD
-             │                │                │
-        Life & Work      Academia ↔        Quantvesting
-        Decisions         Industry         & other systems
-```
-
-### THINK
-
-Understand how data, intelligence and systems thinking can improve decisions.
-
-### BRIDGE
-
-Connect academic concepts with practical industry reality.
-
-### BUILD
-
-Turn ideas into real systems, experiments and products.
-
-The long-term balance between these pillars should emerge from experience rather than being rigidly predetermined.
-
----
-
-# 4. The Content Flywheel
-
-The fundamental operating principle is:
-
-> **One deep research effort → many useful expressions.**
-
-```text
-Real-world Question
+REAL-WORLD PROBLEM
         ↓
-Research
+      QUESTION
         ↓
-Understand
+       DATA
         ↓
-Synthesise
+   UNDERSTANDING
         ↓
-Sketch
+     DECISION
         ↓
-Blog
+      ACTION
         ↓
-LinkedIn
+     OUTCOME
         ↓
-YouTube
-        ↓
-Short / Reel
-        ↓
-Audience Feedback
-        ↓
-Next Question
+     FEEDBACK
         ↺
 ```
 
-The content is not created independently for each platform.
+The same thinking can be applied to:
 
-**The idea is the atomic unit.**
-
-The same understanding is adapted to different formats and audiences.
-
-See [`content-flywheel.md`](content-flywheel.md) for the detailed process.
-
----
-
-# 5. Language Strategy
-
-The content can use different languages for different purposes.
-
-### Hindi / Hinglish
-
-Primarily:
-
-* YouTube
-* YouTube Shorts
-* Instagram Reels
-
-Purpose:
-
-**Reach + relatability + discovery**
-
-Use natural Indian professional Hinglish rather than forcing either pure Hindi or pure English.
-
-Technical vocabulary can remain in English.
+- Data & AI in industry
+- Financial planning and investing
+- Health & fitness
+- Parenting and family
+- Career and life decisions
+- Organic farming
+- Other real-world problems discovered along the way
 
 ---
 
-### English
+## 2. The Strategic Content Principle
 
-Primarily:
+### Breadth first → evidence → depth
 
-* Sketch notes
-* Blog
-* LinkedIn
-* GitHub
-* Product documentation
+The channel should **not** decide its final niche in advance.
 
-Purpose:
+First demonstrate that the FDTD lens applies across different domains.
 
-**Depth + authority + reusability + professional credibility**
+Then use audience response and personal learning to identify where deeper work is justified.
 
-The same idea can therefore be:
-
-**explained in Hindi/Hinglish → captured visually in English → documented deeply in English.**
-
----
-
-# 6. The 80/20 Principle
-
-The project should remain deliberately lightweight.
-
-Do not build a complicated content-management system.
-
-Avoid unnecessary:
-
-* automation
-* metadata
-* asset hierarchies
-* dashboards
-* publishing pipelines
-* separate repositories
-* duplicate content
-
-The repository exists to help with:
-
-**Thinking → Research → Capture → Repurpose → Track**
-
-not to become another project that needs to be maintained.
-
----
-
-# 7. Repository Navigation
-
-The repository is organised around a few simple files.
-
-| File                  | Purpose                                                                                        |
-| --------------------- | ---------------------------------------------------------------------------------------------- |
-| `README.md`           | **Start here.** Overall vision, channel journey, pillars, language strategy and repository map |
-| `philosophy.md`       | Why the project exists, core beliefs, principles and thinking framework                        |
-| `roadmap.md`          | High-level evolution of the channel: Explore → Bridge → Build → long-term balance              |
-| `content-flywheel.md` | How one idea moves from research to sketch, blog, LinkedIn, YouTube and Reel/Short             |
-| `index.md`            | Lightweight dashboard of active, published and upcoming content                                |
-| `topics.md`           | Topic parking lot / backlog; ideas that are not yet being actively researched                  |
-| `quantvesting.md`     | Quantvesting vision, scope, educational boundaries and technical/product journey               |
-| `topics/*.md`         | **One file per meaningful topic** containing research, insight, sketch and all derived content |
-| `sketches/*`          | Handwritten English sketch notes corresponding to topics                                       |
-
----
-
-# 8. The Topic as the Atomic Unit
-
-Each meaningful topic gets one Markdown file:
+The decision to go deep should be based on the intersection of:
 
 ```text
-topics/
-└── 001-topic-name.md
+Personal Expertise / Experience
+             ×
+      Genuine Interest
+             ×
+      Audience Pull
+             ×
+   Future Potential
 ```
 
-The topic file contains the complete thinking around that idea:
-
-**Question → Research → Insight → Sketch → Blog → LinkedIn → YouTube → Short → Feedback → Next Question**
-
-This means there is no need for separate directories for:
-
-* YouTube
-* LinkedIn
-* Instagram
-* Blogs
-* Research
-* Drafts
-* Published content
-
-One topic keeps everything together.
+A topic does not need to score highly on all four to remain useful. Some topics may simply be authentic experiments or occasional perspective pieces.
 
 ---
 
-# 9. Current Operating Rule
+## 3. Content Tiers
 
-When an idea appears:
+### Tier 1 — Expertise
 
-1. Add it to `topics.md`.
-2. When it becomes worth exploring, create a file in `topics/`.
-3. Research and understand it.
-4. Distil the key insight.
-5. Create one sketch.
-6. Turn the same understanding into the required formats.
-7. Publish where appropriate.
-8. Capture audience feedback.
-9. Record the next question.
-10. Move on.
+Areas where there is substantial professional experience:
 
-Do not optimise the system before using it.
+- Data Engineering
+- Data Architecture
+- Enterprise Data
+- Data & AI in Industry
+- Data Products / Data Mesh / Governance
+- GenAI / AI Agents
+- Banking and regulated-enterprise realities
 
-> **Build the minimum system that helps you think and publish consistently.**
+**Positioning:** "Here is what I have learned from doing this."
+
+These are candidates for the deepest and most authoritative content.
+
+### Tier 2 — Demonstrated Experience
+
+Areas with meaningful personal experience:
+
+- Quantvesting
+- Financial planning and equity investing
+- Health & fitness experimentation
+- Parenting / family decision-making
+- Career and life decisions
+
+**Positioning:** "Here is what I have learned from applying this myself."
+
+Do not present personal experience as universal professional advice.
+
+### Tier 3 — Learning in Public
+
+Emerging areas:
+
+- Organic farming
+- Rural / location-independent living
+- Designing an optional life
+- New experiments
+
+**Positioning:** "I am testing this. Let's see what reality teaches us."
+
+This is deliberately different from claiming expertise.
 
 ---
 
-# 10. Guiding Principle
+## 4. The First Objective: Breadth
 
-> **Learn deeply. Think clearly. Explain simply. Build practically.**
+The initial target is approximately **30 sketch notes + 30 Shorts**, not 30 unrelated content assets.
 
-The ultimate goal is not to become a content creator who happens to know Data & AI.
+Use the same core idea to create a lightweight content flywheel:
 
-The goal is to become someone known for:
+```text
+QUESTION
+   ↓
+RESEARCH / EXPERIENCE
+   ↓
+UNDERSTAND
+   ↓
+ONE KEY INSIGHT
+   ↓
+ONE SKETCH
+   ↓
+SHORT / REEL
+   ↓
+OPTIONAL LINKEDIN / BLOG / YOUTUBE
+   ↓
+AUDIENCE FEEDBACK
+   ↓
+NEXT QUESTION
+```
 
-**understanding complex problems → simplifying them → connecting theory with reality → building practical systems → helping others make better decisions.**
+The sketch note remains the primary thinking artifact.
+
+Do not create separate research projects for each platform.
+
+---
+
+## 5. Suggested First 30
+
+The initial 30 are intentionally broad.
+
+| # | Domain | Working topic |
+|---|---|---|
+| 001 | Overview | What is From Data To Decisions? |
+| 002 | Overview | Data vs Information vs Intelligence |
+| 003 | Overview | Why More Data Doesn't Guarantee Better Decisions |
+| 004 | Overview | The Decision Is the Destination |
+| 005 | Wealth | Financial Planning as a Decision System |
+| 006 | Wealth | Your Financial Position as a Dashboard |
+| 007 | Wealth | Financial Runway and Optionality |
+| 008 | Investing | Investing as a Decision Problem |
+| 009 | Investing | Diversification: More Stocks vs Less Risk |
+| 010 | Quantvesting | From Data to an Investment Decision |
+| 011 | Industry | Why Technically Correct Data Can Still Fail |
+| 012 | Industry | Data Quality vs Decision Fitness |
+| 013 | Industry | Data Products: Product or Pipeline? |
+| 014 | Industry | Academia vs Industry: What Changes? |
+| 015 | AI | Why AI Projects Fail After the Demo |
+| 016 | Health | Health as a Feedback System |
+| 017 | Health | Leading vs Lagging Health Indicators |
+| 018 | Health | Why One Health Metric Can Mislead |
+| 019 | Career | Career as a Portfolio |
+| 020 | Career | Human Capital and Career Optionality |
+| 021 | Family | Parenting as a Feedback System |
+| 022 | Family | Short-Term Compliance vs Long-Term Behaviour |
+| 023 | Family | Teaching Children How to Make Decisions |
+| 024 | Life | Should You Quit a Stable Job? |
+| 025 | Life | Designing a Life with More Optionality |
+| 026 | Life | Decisions Under Uncertainty |
+| 027 | Farming | Is Organic Farming Actually Profitable? |
+| 028 | Farming | Why 1 Bigha Is a Better Experiment Than 21 |
+| 029 | Farming | Yield Is Not Profit |
+| 030 | Life | What If the Plan Doesn't Work? |
+
+The list is a starting hypothesis, not a commitment.
+
+---
+
+## 6. After the First 30: The Depth Gate
+
+Do **not** automatically start deep series because a topic received views.
+
+Review the first 30 using:
+
+- audience retention
+- saves / shares
+- meaningful comments
+- questions generated
+- follower quality
+- repeat interest
+- your own enjoyment
+- your ability to add genuine insight
+- future usefulness / potential
+
+Then classify domains:
+
+### DOUBLE DOWN
+Strong audience pull + strong experience/expertise/interest.
+
+### DEVELOP
+Interesting signal, but needs more evidence.
+
+### MAINTAIN
+Useful as occasional breadth content.
+
+### DROP
+Low pull and low strategic value.
+
+The audience helps choose the direction; it does not dictate it.
+
+---
+
+## 7. Recommended Long-Term Pillars
+
+After the breadth phase, the likely structure is:
+
+### 1. Data & AI in the Real World — Authority pillar
+**~35–45%**
+
+Deepest professional territory.
+
+### 2. Quantvesting & Financial Decision-Making — Applied pillar
+**~20–25%**
+
+A living implementation of the FDTD philosophy.
+
+### 3. Personal Experiments — ~10–15%
+Health, fitness, productivity and other measurable experiments.
+
+### 4. Family & Parenting — ~5–10%
+Real-world decision-making and learning.
+
+### 5. Life, Optionality & Farming — ~10–20%
+Career transition, lifestyle design, agriculture and experiments.
+
+These percentages are directional, not rules.
+
+---
+
+## 8. The Role of Quantvesting
+
+Quantvesting is a **case study / implementation** of FDTD, not the identity of the entire channel.
+
+```text
+Decision Thinking
+      ↓
+Financial Decisions
+      ↓
+Quantitative Thinking
+      ↓
+Methodology
+      ↓
+Quantvesting
+      ↓
+Research System
+      ↓
+Potential Product / Advisory
+```
+
+Until any regulated activity is appropriate, keep public content focused on education, methodology, diagnostics and decision-support concepts rather than individualized investment recommendations.
+
+---
+
+## 9. Content Depth Ladder
+
+Not every topic deserves a blog or long video.
+
+Use this ladder:
+
+```text
+Idea
+ ↓
+Sketch + Short
+ ↓
+If promising:
+LinkedIn / longer Short series
+ ↓
+If strong:
+Blog / YouTube deep dive
+ ↓
+If sustained:
+Series / project / implementation
+```
+
+This prevents over-investing in topics before evidence exists.
+
+---
+
+## 10. Topic Atomic Unit
+
+A meaningful topic can have one file:
+
+`topics/XXX-topic-name.md`
+
+A topic may contain:
+
+```text
+Question
+Context
+My experience / observation
+Research
+Key insight
+Mental model
+Sketch
+Short
+LinkedIn
+Blog / YouTube
+Feedback
+Next question
+```
+
+Not every field needs to be completed.
+
+The repository is a thinking aid, not a content-management system.
+
+---
+
+## 11. What FDTD Should Sound Like
+
+Prefer:
+
+> "Let's investigate this."
+
+> "Here's the framework I use."
+
+> "Here's what my experience suggests."
+
+> "Here's what the data says."
+
+> "Here's where theory and practice diverge."
+
+> "This is an experiment, not a universal answer."
+
+Avoid:
+
+> "This is the one right way."
+
+> "Everyone should do this."
+
+> "I am an expert in everything I discuss."
+
+The channel's credibility should come from **clarity, evidence, transparency and accumulated work**.
+
+---
+
+## 12. Language
+
+### English
+- Sketch notes
+- LinkedIn
+- Blog
+- GitHub / documentation
+
+### Hindi / Hinglish
+- YouTube
+- Shorts / Reels
+
+Technical terminology can remain in English where that makes the explanation clearer.
+
+---
+
+## 13. 80/20 Rules
+
+1. Start with a real question.
+2. Understand before publishing.
+3. One topic → one core insight.
+4. One topic → one sketch.
+5. Repurpose the thinking, not the wording.
+6. Breadth before commitment.
+7. Depth only after evidence.
+8. Experience determines authority level.
+9. Audience feedback informs—not controls—direction.
+10. If the repository becomes harder to maintain than the content, simplify it.
+
+---
+
+## 14. Definition of Done
+
+A topic is done when:
+
+- the question is clear
+- the central insight is understood
+- the sketch communicates it
+- the useful content format has been created
+- feedback is captured when available
+- the next question is identified
+
+Then move on.
+
+---
+
+## 15. North Star
+
+> **From Data To Decisions is a public record of learning how to think, decide, explain and build better—across work and life.**
+
+The long-term goal is not simply to become a content creator.
+
+It is to become known for:
+
+**understanding complex problems → connecting theory with reality → simplifying them → building practical systems → helping people make better decisions.**
